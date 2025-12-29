@@ -8,9 +8,9 @@ This project performs exploratory data analysis (EDA) on Michelin-starred restau
 ⸻
 
 Dataset
-	•	File: michelin_my_maps.csv
-	•	Key Columns: Name, Address, City, Country, Price, Cuisine, Award, GreenStar
-	•	Preprocessing: Removed irrelevant columns (PhoneNumber, Url, WebsiteUrl, FacilitiesAndServices, Description) and extracted City and Country from Location.
+•	File: michelin_my_maps.csv
+•	Key Columns: Name, Address, City, Country, Price, Cuisine, Award, GreenStar
+•	Preprocessing: Removed irrelevant columns (PhoneNumber, Url, WebsiteUrl, FacilitiesAndServices, Description) and extracted City and Country from Location.
 
 ⸻
 
