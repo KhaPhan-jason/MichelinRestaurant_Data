@@ -2,7 +2,6 @@
 ⸻
 
 Michelin Restaurants Analysis
-
 This project performs exploratory data analysis (EDA) on Michelin-starred restaurants worldwide, providing insights into locations, awards, cuisines, pricing, and sustainability.
 
 ⸻
